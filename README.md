@@ -1,5 +1,3 @@
-Copyright (c) 2023 IRISA Lab, Inc.
-
 # Position_Engine_for_U-Blox_XPLR_AOA_2
 ## PFE Project:
 Comprehensive Documentation for Hybrid Indoor Localization System utilizing Low-Power Radio in Dense Environments
@@ -57,5 +55,9 @@ The project is structured as follows:
 - u-blox Position Engine Structure.png: Image depicting the structure of the u-blox position engine.
 
 For a more comprehensive and organized presentation of the project, please refer to the directory structure provided in the documentation. If you have any questions or require further information, please do not hesitate to reach out.
-
+## Contact : 
+ - mot4373@gmail.com
+ - taha.moussa@ept.ucar.tn
 Best regards,
+
+Copyright (c) 2023 IRISA Lab, Inc.
