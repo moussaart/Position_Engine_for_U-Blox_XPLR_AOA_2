@@ -48,8 +48,10 @@ The project is structured as follows:
      - GUI.mlapp: MATLAB App Designer application for the graphical user interface.
 
 ### Project Extras:
-- Postion engine test video.mp4: Video demonstration of the position engine in action.
-- Ublox REAL TIME SIMULATION.mp4: Exemple of real time test of the position using U-Blox systeme.
+- Postion engine test youtube video: Video demonstration of the position engine in action.
+   - ERL :[https://www.youtube.com/watch?v=tquWET2qrWE]
+- Ublox REAL TIME SIMULATION youtube video: Exemple of real time test of the position using U-Blox systeme.
+   - URL :[https://www.youtube.com/watch?v=SIrkJQvxj7k]
 - u-blox Position Engine Structure.png: Image depicting the structure of the u-blox position engine.
 
 For a more comprehensive and organized presentation of the project, please refer to the directory structure provided in the documentation. If you have any questions or require further information, please do not hesitate to reach out.
