@@ -1,7 +1,6 @@
 # Position_Engine_for_U-Blox_XPLR_AOA_2
 ## PFE Project:
 Comprehensive Documentation for Hybrid Indoor Localization System utilizing Low-Power Radio in Dense Environments
-Copyright (c) 2023 IRISA Lab, Inc.
 
 ## Project Overview:
 The attached document provides an extensive overview of a PFE project involving the development of a cutting-edge hybrid indoor localization system. This system leverages low-power radio technology to achieve accurate positioning in challenging indoor environments. The documentation includes detailed explanations of the source code used in the project, specifically the u-blox XPLR-AOA-2 kit.
